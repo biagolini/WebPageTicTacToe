@@ -2,6 +2,8 @@
 
 This repository contains a simple tic-tac-toe game implemented using HTML, CSS, and JavaScript. The purpose of this website is to provide a straightforward example for testing infrastructure services, such as web hosting, continuous integration, and deployment pipelines.
 
+Test this project at: [https://biagolini.github.io/WebPageTicTacToe/](https://biagolini.github.io/WebPageTicTacToe/)
+
 ## Overview
 
 The game features a basic tic-tac-toe layout, allowing users to play against each other on a 3x3 grid. The code includes a minimalistic design and essential game logic, making it easy to understand and integrate into various environments.
